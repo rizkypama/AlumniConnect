@@ -1,0 +1,7 @@
+[27-Oct-2023 03:53:52 UTC] PHP Notice:  Undefined index: status in /home/smknuke1/alumni.smknukesesi.sch.id/login/admin/profileadjust/authlevels.php on line 4
+[27-Oct-2023 03:53:52 UTC] PHP Notice:  Undefined index: nama in /home/smknuke1/alumni.smknukesesi.sch.id/login/admin/profileadjust/authlevels.php on line 64
+[27-Oct-2023 03:53:52 UTC] PHP Notice:  Undefined index: nama in /home/smknuke1/alumni.smknukesesi.sch.id/login/admin/profileadjust/authlevels.php on line 167
+[14-Nov-2023 02:38:32 UTC] PHP Notice:  Undefined index: status in /home/smknuke1/alumni.smknukesesi.sch.id/login/admin/profileadjust/authlevels.php on line 4
+[14-Nov-2023 02:38:32 UTC] PHP Notice:  Undefined index: nama in /home/smknuke1/alumni.smknukesesi.sch.id/login/admin/profileadjust/authlevels.php on line 64
+[14-Nov-2023 02:38:32 UTC] PHP Notice:  Undefined index: nama in /home/smknuke1/alumni.smknukesesi.sch.id/login/admin/profileadjust/authlevels.php on line 167
+[16-Nov-2023 02:50:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/smknuke1/alumni.smknukesesi.sch.id/login/daftar/daftar.php on line 45

@@ -1,0 +1,2 @@
+[27-Oct-2023 03:21:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'smknuke1_admin'@'localhost' to database 'sistem_informasi_alumni' in /home/smknuke1/alumni.smknukesesi.sch.id/login/koneksi.php on line 7
+[27-Oct-2023 03:32:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'smknuke1_admin'@'localhost' to database 'sistem_informasi_alumni' in /home/smknuke1/alumni.smknukesesi.sch.id/login/koneksi.php on line 7
